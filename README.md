@@ -1,5 +1,5 @@
 # chhs-module
-Récupérer fonds d'écran "windows à la une" et les appliquer
+Récupérer les fonds d'écran "windows à la une" et les appliquer
 
 ### Récuperer fonds d'écran windows à la une
 - chhs.\_\___init__\_\_() : place les images (.jpg) dans le dossier "win_a_la_une"
